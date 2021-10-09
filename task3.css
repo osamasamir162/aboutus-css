@@ -1,0 +1,21 @@
+
+.visable{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.changeable{
+    background-color: aqua;
+}
+ 
+.carsblock{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 332px;
+}
+.notvisable{
+    
+    display: none;
+} 
